@@ -1,0 +1,18 @@
+.cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 16px;
+
+}
+
+.cards img {
+	width: 180px;
+	height:180px;
+	object-fit: cover;
+}
+
+.card-white {
+	background-color: #ada397;
+	text-align: center;
+
+}

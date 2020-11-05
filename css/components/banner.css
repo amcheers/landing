@@ -1,0 +1,9 @@
+.banner {
+	background-image: url(../../images/bg_three.jpg);
+	background-size: cover;
+	color: white;
+	text-align: center;
+	padding: 80px;
+	text-decoration: none;
+
+}

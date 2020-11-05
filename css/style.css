@@ -1,0 +1,58 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Components */
+@import url('components/banner.css');
+@import url('components/button.css');
+@import url('components/cards.css');
+@import url('components/container.css');
+
+/* Utilities */
+
+
+/* Custom design below! */
+/* Write some CSS below */
+body {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 18px;
+	color:rgb(30,30,30);
+	background-color: #bdcebe;
+}
+
+h1 {
+		font-size: 80px;
+	color:black;
+}
+
+h2 {
+	color:black;
+	font-size: 50px;
+	text-align: center;
+}
+
+h3 {
+	color:black;
+	font-size: 20px;
+}
+
+h4 {
+	text-align: center;
+}
+
+
+/* Custom Class Design*/
+
+
+
+
+
+
+
+
+
+
+
+
